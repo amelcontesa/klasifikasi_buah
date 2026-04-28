@@ -1,3 +1,2 @@
-# 🍎 Klasifikasi Kondisi Buah Menggunakan CNN
+ 🍎 Klasifikasi Kondisi Buah Menggunakan CNN
 
-## 📌 Des
